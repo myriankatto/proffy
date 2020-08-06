@@ -48,7 +48,7 @@ input,
 button,
 textarea {
   font: 100 1.6rem Poppins;
-  coor: var(--color-text-base);
+  color: var(--color-text-base);
 }
 
 .container {
